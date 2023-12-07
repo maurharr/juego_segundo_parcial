@@ -1,0 +1,10 @@
+{
+    "enemigos": [
+        {"escala": 3, "type": 6, "posicion_x": 1000, "posicion_y": 100}
+    ],
+    "plataformas": [
+        {"image_path": "./src/assets/images/horizontal_platform3.png", "rect": [550, 448, 125, 33], "velocidad": 2},
+        {"image_path": "./src/assets/images/horizontal_platform3.png", "rect": [300, 336, 125, 33], "velocidad": 2},
+        {"image_path": "./src/assets/images/horizontal_platform3.png", "rect": [50, 112, 125, 33], "velocidad": 2}
+    ]
+}

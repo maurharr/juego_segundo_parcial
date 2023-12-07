@@ -1,0 +1,64 @@
+{
+    "enemigos":
+    [
+        {"escala": 2, "type": 4, "posicion_x": 1400, "posicion_y": 456},
+        {"escala": 2, "type": 2, "posicion_x": 1000, "posicion_y": 300},
+        {"escala": 2, "type": 3, "posicion_x": 2800, "posicion_y": 504},
+        {"escala": 2, "type": 1, "posicion_x": 3400, "posicion_y": 504},
+        {"escala": 2, "type": 4, "posicion_x": 4700, "posicion_y": 168},
+        {"escala": 2, "type": 4, "posicion_x": 5900, "posicion_y": 168},
+        {"escala": 2, "type": 1, "posicion_x": 6800, "posicion_y": 504},
+        {"escala": 2, "type": 5, "posicion_x": 2180, "posicion_y": 312},
+        {"escala": 2, "type": 5, "posicion_x": 4100, "posicion_y": 312},
+        {"escala": 2, "type": 5, "posicion_x": 6185, "posicion_y": 312}
+    ],
+    "trampas":
+    [
+        {"image_path": "./src/assets/images/trampa.png", "rect": [900, 350, 50, 50]},
+        {"image_path": "./src/assets/images/trampa.png", "rect": [1400, 450, 50, 50]},
+        {"image_path": "./src/assets/images/trampa.png", "rect": [3000, 450, 50, 50]},
+        {"image_path": "./src/assets/images/trampa.png", "rect": [3300, 450, 50, 50]},
+        {"image_path": "./src/assets/images/trampa.png", "rect": [4900, 250, 50, 50]},
+        {"image_path": "./src/assets/images/trampa.png", "rect": [5700, 250, 50, 50]}
+    ],
+    "relojes":
+    [
+        {"image_path": "./src/assets/images/reloj.png", "rect": [3200, 200, 50, 50]}
+    ],
+    "plataformas":
+    [
+        {"image_path": "./src/assets/images/horizontal_platform.png", "rect": [50, 500, 500, 33]},
+        {"image_path": "./src/assets/images/horizontal_platform.png", "rect": [750, 400, 400, 33]},
+        {"image_path": "./src/assets/images/horizontal_platform.png", "rect": [1300, 500, 500, 33]},
+        {"image_path": "./src/assets/images/horizontal_platform.png", "rect": [2000, 500, 200, 33]},
+        {"image_path": "./src/assets/images/cube_platform.png", "rect": [2200, 400, 33, 33]},
+        {"image_path": "./src/assets/images/cube_platform.png", "rect": [2400, 400, 33, 33]},
+        {"image_path": "./src/assets/images/horizontal_platform.png", "rect": [2550, 300, 200, 33]},
+        {"image_path": "./src/assets/images/horizontal_platform.png", "rect": [2800, 500, 800, 33]},
+        {"image_path": "./src/assets/images/horizontal_platform.png", "rect": [3700, 400, 500, 33]},
+        {"image_path": "./src/assets/images/cube_platform.png", "rect": [4400, 400, 33, 33]},
+        {"image_path": "./src/assets/images/horizontal_platform.png", "rect": [4600, 300, 600, 33]},
+        {"image_path": "./src/assets/images/horizontal_platform.png", "rect": [5400, 300, 600, 33]},
+        {"image_path": "./src/assets/images/cube_platform.png", "rect": [6200, 300, 33, 33]},
+        {"image_path": "./src/assets/images/cube_platform.png", "rect": [6400, 400, 33, 33]},
+        {"image_path": "./src/assets/images/horizontal_platform.png", "rect": [6600, 500, 600, 33]},
+        {"image_path": "./src/assets/images/horizontal_platform.png", "rect": [7300, 500, 400, 33]}
+    ],
+    "monedas":
+    [
+        {"image_path": "./src/assets/images/coin.png", "rect": [2200, 200, 30, 30]},
+        {"image_path": "./src/assets/images/coin.png", "rect": [2400, 200, 30, 30]},
+        {"image_path": "./src/assets/images/coin.png", "rect": [4400, 200, 30, 30]},
+        {"image_path": "./src/assets/images/coin.png", "rect": [6200, 200, 30, 30]},
+        {"image_path": "./src/assets/images/coin.png", "rect": [6400, 200, 30, 30]}
+    ],
+    "meta":
+    [
+        {"image_path": "./src/assets/images/door.png", "rect": [7600, 400, 100, 100]}
+    ],
+    "corazones":
+    [
+        {"image_path": "./src/assets/images/heal.png", "rect": [2550, 200, 30, 30]},
+        {"image_path": "./src/assets/images/heal.png", "rect": [5700, 100, 30, 30]}
+    ]
+}

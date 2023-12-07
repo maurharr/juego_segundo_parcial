@@ -1,0 +1,36 @@
+ORIGEN = (0, 0)
+
+WIDTH, HEIGHT = 1200, 600
+resolucion = (WIDTH,HEIGHT)
+
+center_y, center_x = HEIGHT//2, WIDTH//2
+center_screen = (center_x, center_y)
+
+FPS = 60
+
+GRAVITY = 0.8
+
+WIDTH_BODY = 32 
+HEIGHT_BODY = 48  
+
+#colores
+WHITE = (255, 255, 255)
+CYAN = (0, 255, 255)
+BLUE = (0, 0, 255)
+GREEN = (0, 255, 0)
+YELLOW = (255, 255, 0)
+ORANGE = (255, 127, 0)
+RED = (255, 0, 0)
+BROWN = (128, 64, 64)
+PINK = (255, 128, 255)
+PURPLE = (127, 0, 255)
+BLACK = (0, 0, 0)
+GREY = (175, 175, 175)
+SKY_COLOR = (38, 167, 251)
+CUSTOM_COLOR = (61, 3, 39)
+CUSTOM_BOTON_COLOR = (172, 89, 89)
+CUSTOM_BOTON_COLOR_2 = (124, 103, 77)
+
+MENU_COLOR = (134, 118, 102)
+MENU_BOTON_COLOR = (177, 165, 152)
+MENU_BOTON_COLOR_2 = (124, 103, 77)

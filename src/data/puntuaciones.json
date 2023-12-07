@@ -1,0 +1,16 @@
+{
+    "puntuaciones": [
+        {
+            "nombre": "Tomas",
+            "puntos": 12000000
+        },
+        {
+            "nombre": "Lucas",
+            "puntos": 10000000
+        },
+        {
+            "nombre": "Martin",
+            "puntos": 8000000
+        }
+    ]
+}
