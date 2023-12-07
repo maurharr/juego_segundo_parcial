@@ -9,7 +9,7 @@ import json
 
 
 class Game:
-    
+
     def __init__(self) -> None:
         
         # Inicializar modulos de Pygame

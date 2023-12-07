@@ -11,6 +11,10 @@
         {
             "nombre": "Martin",
             "puntos": 8000000
+        },
+        {
+            "nombre": "Mauricio",
+            "puntos": 4841100
         }
     ]
 }
