@@ -18,7 +18,7 @@ Este proyecto integra los contenidos vistos en las materias de Programación 1 y
 12. Utilización de clases: Una plantilla para la creación de objetos. Define un conjunto de atributos y métodos comunes a todos los objetos que se crean a partir de ella. Los objetos son instancias de una clase y heredan las características definidas en la clase.
 13. JSON: Uso de archivos JSON para guardar ranking.
 
-II. DESCRIPCIÓN GENERAL DEL PROYECTO:
+# II. DESCRIPCIÓN GENERAL DEL PROYECTO:
 El proyecto trata de un juego de estilo arcade llamado que cumple con las siguientes condiciones:
 
 1. Jugador: Personaje controlado por el jugador, puede obtener puntos derrotando enemigos y recolectando monedas.
